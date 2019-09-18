@@ -1,6 +1,6 @@
 # Mi-Log <img src="https://github.com/seanlowe/milog/blob/master/icons/miLog.png" height=200 width=200 align=right>
 ### A mileage tracker for businesses
-MiLog is a cross platform mileage logger app built originally for **The Berkshire Group**, a realty company in the Denver area. The app aims to give companies and their employees a convenient way to log trip mileage for budget purposes by prompting drivers to enter their mileage based on the starting and ending odometer reading from the vehicle of choice.
+MiLog is a cross platform mileage logger app. The app aims to give companies and their employees a convenient way to log trip mileage for budget purposes by prompting drivers to enter their mileage based on the starting and ending odometer reading from the vehicle of choice.
 
 #### Check out our website at https://milog.org
 
@@ -32,14 +32,3 @@ MiLog is a cross platform mileage logger app built originally for **The Berkshir
   <img width="150" src="https://cdn3.iconfinder.com/data/icons/sociocons/256/github-sociocon.png">
   <img width="150" src="https://www.freeiconspng.com/uploads/heart-icon-14.png">
 </p>
-
-# Contract
-<p>
-  <img align="left" width="420" src="icons/Contract-pg10001.jpg">
-  <img align="right" width="420" src="icons/Contract-pg10002.jpg">
-</p>
-
-___
-
-### Video Presentation for Client - <a href="https://youtu.be/DlVqtwCDjWU" target="_blank">YouTube Link</a>
-
